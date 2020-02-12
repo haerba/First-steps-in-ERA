@@ -1,0 +1,32 @@
+[r1/map_fuser-23] killing on exit
+[r1/wifi_transceiver-22] killing on exit
+[r1/ERAmsgInterpreter_node-21] killing on exit
+[r1/ERAmsgBuilder_node-20] killing on exit
+[r1/costmap_node-19] killing on exit
+[r1/transform_publisher-18] killing on exit
+[r1/depthimage_to_laserscan-17] killing on exit
+[ INFO] [1581446660.986320443, 223.200000000]: Compressing 10192 bytes into 273 bytes
+[r1/laserscan_nodelet_manager-16] killing on exit
+[r1/robot_state_publisher-15] killing on exit
+pdu len 301
+ [RUNNING]  Bag Time:    278.780249   Duration: 55.380249 / 93.300000           [ INFO] [1581446661.110400590, 223.300000000]: Compressing 10192 bytes into 273 bytes
+ [RUNNING]  Bag Time:    278.880098   Duration: 55.480098 / 93.300000            [RUNNING]  Bag Time:    278.980093   Duration: 55.580093 / 93.300000           [r0/map_fuser-13] killing on exit
+[r0/wifi_transceiver-12] killing on exit
+ [RUNNING]  Bag Time:    279.000091   Duration: 55.600091 / 93.300000           [r0/ERAmsgInterpreter_node-11] killing on exit
+[r0/ERAmsgBuilder_node-10] killing on exit
+ [RUNNING]  Bag Time:    279.100090   Duration: 55.700090 / 93.300000            [RUNNING]  Bag Time:    279.190097   Duration: 55.790097 / 93.300000           [r0/costmap_node-9] killing on exit
+[r0/transform_publisher-8] killing on exit
+[r0/depthimage_to_laserscan-7] killing on exit
+[r0/laserscan_nodelet_manager-6] killing on exit
+[r0/robot_state_publisher-5] killing on exit
+[gazebo-3] killing on exit
+ [RUNNING]  Bag Time:    279.210101   Duration: 55.810101 / 93.300000           [player-2] killing on exit
+ [RUNNING]  Bag Time:    279.310099   Duration: 55.910099 / 93.300000            [RUNNING]  Bag Time:    279.410242   Duration: 56.010242 / 93.300000            [RUNNING]  Bag Time:    279.420092   Duration: 56.020092 / 93.300000               
+[r1/wifi_transceiver-22] escalating to SIGTERM
+[r0/wifi_transceiver-12] escalating to SIGTERM
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+

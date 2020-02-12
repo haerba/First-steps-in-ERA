@@ -1,0 +1,110 @@
+... logging to /home/hackfest03/.ros/log/3f34336c-4cff-11ea-aac2-1860241dd172/roslaunch-hackfest03-HP-ZBook-17-G4-12645.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/hackfest03/catkin_ws/src/era_gazebo/launch/era_playback_melodic.launch
+[1mstarted roslaunch server http://hackfest03-HP-ZBook-17-G4:46187/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /r0/ERAmsgBuilder_node/ID: r0
+ * /r0/costmap_node/costmap/always_send_full_costmap: True
+ * /r0/costmap_node/costmap/global_frame: r0/odom
+ * /r0/costmap_node/costmap/height: 5.0
+ * /r0/costmap_node/costmap/obstacles/observation_sources: scan
+ * /r0/costmap_node/costmap/obstacles/scan/clearing: True
+ * /r0/costmap_node/costmap/obstacles/scan/data_type: LaserScan
+ * /r0/costmap_node/costmap/obstacles/scan/marking: True
+ * /r0/costmap_node/costmap/obstacles/scan/sensor_frame: r0/base_footprint
+ * /r0/costmap_node/costmap/obstacles/scan/topic: scan
+ * /r0/costmap_node/costmap/plugins: [{'type': 'costma...
+ * /r0/costmap_node/costmap/publish_frequency: 20.0
+ * /r0/costmap_node/costmap/resolution: 0.05
+ * /r0/costmap_node/costmap/robot_base_frame: r0/base_footprint
+ * /r0/costmap_node/costmap/rolling_window: True
+ * /r0/costmap_node/costmap/static_map: False
+ * /r0/costmap_node/costmap/update_frequency: 20.0
+ * /r0/costmap_node/costmap/width: 5.0
+ * /r0/depthimage_to_laserscan/output_frame_id: camera_depth_frame
+ * /r0/depthimage_to_laserscan/range_min: 0.45
+ * /r0/depthimage_to_laserscan/scan_height: 10
+ * /r0/robot_description: <?xml version="1....
+ * /r0/robot_state_publisher/publish_frequency: 30.0
+ * /r0/simple_box_description: <robot name="simp...
+ * /r0/tf_prefix: r0
+ * /r1/ERAmsgBuilder_node/ID: r1
+ * /r1/costmap_node/costmap/always_send_full_costmap: True
+ * /r1/costmap_node/costmap/global_frame: r1/odom
+ * /r1/costmap_node/costmap/height: 5.0
+ * /r1/costmap_node/costmap/obstacles/observation_sources: scan
+ * /r1/costmap_node/costmap/obstacles/scan/clearing: True
+ * /r1/costmap_node/costmap/obstacles/scan/data_type: LaserScan
+ * /r1/costmap_node/costmap/obstacles/scan/marking: True
+ * /r1/costmap_node/costmap/obstacles/scan/sensor_frame: r1/base_footprint
+ * /r1/costmap_node/costmap/obstacles/scan/topic: scan
+ * /r1/costmap_node/costmap/plugins: [{'type': 'costma...
+ * /r1/costmap_node/costmap/publish_frequency: 20.0
+ * /r1/costmap_node/costmap/resolution: 0.05
+ * /r1/costmap_node/costmap/robot_base_frame: r1/base_footprint
+ * /r1/costmap_node/costmap/rolling_window: True
+ * /r1/costmap_node/costmap/static_map: False
+ * /r1/costmap_node/costmap/update_frequency: 20.0
+ * /r1/costmap_node/costmap/width: 5.0
+ * /r1/depthimage_to_laserscan/output_frame_id: camera_depth_frame
+ * /r1/depthimage_to_laserscan/range_min: 0.45
+ * /r1/depthimage_to_laserscan/scan_height: 10
+ * /r1/robot_description: <?xml version="1....
+ * /r1/robot_state_publisher/publish_frequency: 30.0
+ * /r1/simple_box_description: <robot name="simp...
+ * /r1/tf_prefix: r1
+ * /rosdistro: melodic
+ * /rosversion: 1.14.3
+ * /use_sim_time: True
+
+NODES
+  /r0/
+    ERAmsgBuilder_node (era_gazebo/ERAmsgBuilder_node)
+    ERAmsgInterpreter_node (era_gazebo/ERAmsgInterpreter_node)
+    costmap_node (costmap_2d/costmap_2d_node)
+    depthimage_to_laserscan (nodelet/nodelet)
+    laserscan_nodelet_manager (nodelet/nodelet)
+    map_fuser (era_gazebo/map_fuser)
+    robot_state_publisher (robot_state_publisher/robot_state_publisher)
+    spawn_urdf (gazebo_ros/spawn_model)
+    transform_publisher (tf/static_transform_publisher)
+    wifi_transceiver (dsrc/wifi_transceiver.py)
+  /
+    gazebo (gazebo_ros/gzserver)
+    gazebo_gui (gazebo_ros/gzclient)
+    player (rosbag/play)
+    rviz (rviz/rviz)
+  /r1/
+    ERAmsgBuilder_node (era_gazebo/ERAmsgBuilder_node)
+    ERAmsgInterpreter_node (era_gazebo/ERAmsgInterpreter_node)
+    costmap_node (costmap_2d/costmap_2d_node)
+    depthimage_to_laserscan (nodelet/nodelet)
+    laserscan_nodelet_manager (nodelet/nodelet)
+    map_fuser (era_gazebo/map_fuser)
+    robot_state_publisher (robot_state_publisher[0m[ INFO] [1581446976.017187373]: Opening /home/hackfest03/catkin_ws/src/era_gazebo/bagfiles/cmd_vel_r0.bag[0m
+
+Waiting 10 seconds after advertising topics...MAPPER: encoding: 0
+set_min_output_buffer on block 9 to 49632
+set_min_output_buffer on block 11 to 1034
+set_min_output_buffer on block 13 to 82720
+set_min_output_buffer on block 14 to 1034
+set_min_output_buffer on block 15 to 128
+set_min_output_buffer on block 16 to 49632
+set_min_output_buffer on block 27 to 100000
+set_min_output_buffer on block 30 to 100000
+MAPPER: encoding: 0
+set_min_output_buffer on block 9 to 49632
+set_min_output_buffer on block 11 to 1034
+set_min_output_buffer on block 13 to 82720
+set_min_output_buffer on block 14 to 1034
+set_min_output_buffer on block 15 to 128
+set_min_output_buffer on block 16 to 49632
+set_min_output_buffer on block 27 to 100000
+set_min_output_buffer on block 30 to 100000
+

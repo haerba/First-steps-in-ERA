@@ -1,0 +1,31 @@
+[rviz-23] killing on exit
+[r1/map_fuser-22] killing on exit
+[r1/wifi_transceiver-21] killing on exit
+[ INFO] [1581445332.895354912, 250.390000000]: Compressing 10192 bytes into 272 bytes
+[r1/ERAmsgBuilder_node-19] killing on exit
+[r1/costmap_node-18] killing on exit
+[r1/transform_publisher-17] killing on exit
+[r1/ERAmsgInterpreter_node-20] killing on exit
+[r1/depthimage_to_laserscan-16] killing on exit
+[r1/laserscan_nodelet_manager-15] killing on exit
+[r1/robot_state_publisher-14] killing on exit
+pdu len 300
+[r0/map_fuser-12] killing on exit
+[ INFO] [1581445333.006411126, 250.490000000]: Compressing 10192 bytes into 272 bytes
+[r0/wifi_transceiver-11] killing on exit
+[r0/ERAmsgInterpreter_node-10] killing on exit
+[r0/ERAmsgBuilder_node-9] killing on exit
+[r0/costmap_node-8] killing on exit
+[r0/transform_publisher-7] killing on exit
+[r0/depthimage_to_laserscan-6] killing on exit
+[r0/laserscan_nodelet_manager-5] killing on exit
+[r0/robot_state_publisher-4] killing on exit
+[gazebo-2] killing on exit
+[r1/wifi_transceiver-21] escalating to SIGTERM
+[r0/wifi_transceiver-11] escalating to SIGTERM
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+

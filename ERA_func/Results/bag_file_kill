@@ -1,0 +1,38 @@
+rviz-25] killing on exit
+[r1/map_fuser-24] killing on exit
+[r1/wifi_transceiver-23] killing on exit
+[r1/ERAmsgInterpreter_node-22] killing on exit
+[r1/costmap_node-20] killing on exit
+[r1/ERAmsgBuilder_node-21] killing on exit
+[r1/transform_publisher-19] killing on exit
+[r1/depthimage_to_laserscan-18] killing on exit
+ [RUNNING]  Bag Time:    294.080202   Duration: 70.680202 / 93.300000           [r1/laserscan_nodelet_manager-17] killing on exit
+[r1/robot_state_publisher-16] killing on exit
+[ INFO] [1581446433.425444962, 237.660000000]: Compressing 10192 bytes into 257 bytes
+[r0/map_fuser-14] killing on exit
+ [RUNNING]  Bag Time:    294.180826   Duration: 70.780826 / 93.300000           [ INFO] [1581446433.532674573, 237.760000000]: Compressing 10192 bytes into 257 bytes
+ [RUNNING]  Bag Time:    294.280162   Duration: 70.880162 / 93.300000           pdu len 285
+[ INFO] [1581446433.635039792, 237.860000000]: Compressing 10192 bytes into 260 bytes
+ [RUNNING]  Bag Time:    294.330169   Duration: 70.930169 / 93.300000           pdu len 288
+[r0/wifi_transceiver-13] killing on exit
+[r0/ERAmsgInterpreter_node-12] killing on exit
+ [RUNNING]  Bag Time:    294.430298   Duration: 71.030298 / 93.300000           [r0/ERAmsgBuilder_node-11] killing on exit
+ [RUNNING]  Bag Time:    294.530177   Duration: 71.130177 / 93.300000           [r0/costmap_node-10] killing on exit
+[r0/transform_publisher-9] killing on exit
+[r0/depthimage_to_laserscan-8] killing on exit
+ [RUNNING]  Bag Time:    294.630103   Duration: 71.230103 / 93.300000           [r0/laserscan_nodelet_manager-7] killing on exit
+ [RUNNING]  Bag Time:    294.730095   Duration: 71.330095 / 93.300000           [r0/robot_state_publisher-6] killing on exit
+[gazebo_gui-4] killing on exit
+[gazebo-3] killing on exit
+ [RUNNING]  Bag Time:    294.830262   Duration: 71.430262 / 93.300000            [RUNNING]  Bag Time:    294.930104   Duration: 71.530104 / 93.300000           [player-2] killing on exit
+ [RUNNING]  Bag Time:    294.990094   Duration: 71.590094 / 93.300000            [RUNNING]  Bag Time:    295.090153   Duration: 71.690153 / 93.300000               
+[r1/wifi_transceiver-23] escalating to SIGTERM
+[r0/wifi_transceiver-13] escalating to SIGTERM
+[gazebo_gui-4] escalating to SIGTERM
+[gazebo-3] escalating to SIGTERM
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+

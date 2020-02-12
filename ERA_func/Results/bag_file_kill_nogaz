@@ -1,0 +1,35 @@
+[ INFO] [1581445979.681156712, 300.690000000]: Uncompressing 273 bytes into 10192 bytes
+[r1/map_fuser-24] killing on exit
+[r1/wifi_transceiver-23] killing on exit
+[rviz-25] killing on exit
+[r1/depthimage_to_laserscan-18] killing on exit
+[r1/ERAmsgInterpreter_node-22] killing on exit
+[r1/costmap_node-20] killing on exit
+[r1/transform_publisher-19] killing on exit
+[r1/ERAmsgBuilder_node-21] killing on exit
+[r1/robot_state_publisher-16] killing on exit
+[r1/laserscan_nodelet_manager-17] killing on exit
+[ INFO] [1581445979.762686275, 300.750000000]: Compressing 10192 bytes into 273 bytes
+pdu len 301
+[ INFO] [1581445979.870737065, 300.850000000]: Compressing 10192 bytes into 273 bytes
+pdu len 301
+[r0/map_fuser-14] killing on exit
+[r0/wifi_transceiver-13] killing on exit
+[r0/ERAmsgInterpreter_node-12] killing on exit
+[r0/ERAmsgBuilder_node-11] killing on exit
+[r0/costmap_node-10] killing on exit
+[r0/transform_publisher-9] killing on exit
+[r0/depthimage_to_laserscan-8] killing on exit
+[r0/laserscan_nodelet_manager-7] killing on exit
+[r0/robot_state_publisher-6] killing on exit
+[gazebo_gui-4] killing on exit
+[gazebo-3] killing on exit
+[r1/wifi_transceiver-23] escalating to SIGTERM
+[r0/wifi_transceiver-13] escalating to SIGTERM
+[gazebo_gui-4] escalating to SIGTERM
+[gazebo-3] escalating to SIGTERM
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
